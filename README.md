@@ -158,9 +158,9 @@ My development journey:
 ## 🤝 Connect With Me
 
 * 💻 GitHub: [@yalagandulapraveen7-1304](https://github.com/yalagandulapraveen7-1304)
-* 🔗 LinkedIn: Add your LinkedIn
-* 📧 Email: Add your email
-* 🌐 Portfolio: Add your portfolio
+* 🔗 LinkedIn: [Praveen Yalagandula](https://www.linkedin.com/in/praveen-yalagandula-ab59553a9/)
+* 📧 Email: yalagandulapraveen7@gmail.com
+* 🌐 Portfolio: [Praveen Yalagandula](https://praveensportfolio1304.netlify.app/#hero)
 
 ---
 
