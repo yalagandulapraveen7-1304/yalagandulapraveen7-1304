@@ -130,17 +130,11 @@ System Design
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yalagandulapraveen7-1304&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yalagandulapraveen7-1304&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yalagandulapraveen7-1304&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
