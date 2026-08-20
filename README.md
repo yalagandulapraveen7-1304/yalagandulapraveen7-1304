@@ -1,6 +1,7 @@
 # Hi, I'm Praveen 👋
 
 **B.Tech Information Technology Student**
+**2nd Year At M.V.S.R Engineering College**
 Full Stack Developer | AI-Assisted Development | Cloud Computing
 
 > Building practical applications while learning modern software development.
