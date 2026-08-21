@@ -1,4 +1,4 @@
-# Hi, I'm Praveen 👋
+# Hi, I'm Praveen Yalagandula 👋
 
 **B.Tech Information Technology Student,**
 **2nd Year At M.V.S.R Engineering College** |
